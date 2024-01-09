@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## 팀 개발을 위한 git, github 시작하기 개정판
+
+### :octocat: 안녕하세요. 고양이입니다.
+- 지금은 테스트1
+- 지금은 테스트2
+  
 <!--
 **gittestsite1/gittestsite1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
